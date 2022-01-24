@@ -7,7 +7,12 @@ To keep myself in a growth mindset it will remember that,<br>
 2. Mistakes are not bad, they are learning oppertunities
 3. If someone else is better at something than me, they were once in my position
 
-## About Myself
+## About Myself<br>
+Hello, My name is James Brooks, I am 20 years old and I'm excited to work with you all in the future.<br>
+I have a Bernese Mountain Dog and 2 cats<br>
+![Hogarth](PXL_20220124_222637381.MP)<br>
+![Snape](PXL_20220124_222656582.jpg)<br>
+And I couldn't get a picture of my other cat(Weasley), So just imagine the same cat but Orange and fatter.
 
-Hello, My name is James Brooks, I am a 20 year old 
-
+[LinkedIn](https://www.linkedin.com/in/james-brooks-8270b3170/)<br>
+[GitHub](https://github.com/JamesBrooks01)<br>
