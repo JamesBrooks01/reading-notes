@@ -107,4 +107,16 @@ Or,<br>
   - For example, The [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet)
   - You can also add a title to the link by adding a word or phrase in quotations after the link like, `[Name](URL"Title")`
   - If you want to simply add a link or e-mail enclose it in brackets, for example<br>
-    <fake@example.com>
+    - <fake@example.com>
+  - You can also emphasize links using the same method as before
+
+### Reference Style Links
+
+- You can also add a link that makes URLs easier to display and read by having the link be in two parts.
+  - Part 1 which is inline with the text and
+  - Part 2 which is stored somewhere else in the text.
+
+#### First Part
+
+- The first part is the inline part which you format with two sets of brackets, One set on the text that should appear to be linked, and the second should display a label that points to the link somewhere else in the document.
+  - While not nescessary, you can include
