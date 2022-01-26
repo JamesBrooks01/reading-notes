@@ -7,7 +7,7 @@ For web developers and software engineers however, it can be used to create enti
 ## Basic Text Editors vs Coding Built Text Editors
 
 ----
-Each operating system comes with its own text editor; with Windows it's Notepad, With Mac it's called Text Edit, and each Linux distribution has it's own text editor with each one called something different. And each one serves its purpose as well as each other, but it can only type in plain text and has no additional features for coding. 
+Each operating system comes with its own text editor; with Windows it's Notepad, With Mac it's called Text Edit, and each Linux distribution has it's own text editor with each one called something different. And each one serves its purpose as well as each other, but it can only type in plain text and has no additional features for coding.
 In comparison, text editors built for coding have features like code completion, syntax highlighting, multiple themes, and a variety of extensions. But what do these feature do?
 
 ### Code Completion

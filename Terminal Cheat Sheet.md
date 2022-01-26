@@ -11,8 +11,8 @@
 ## General Notes
 
 - Paths can be Absolute or Relative
-    - Absolute is where it is in relation to root
-    - Relative is where it is in relation to current working directory
+  - Absolute is where it is in relation to root
+  - Relative is where it is in relation to current working directory
 - In Linux everything including directories are files
 - Linux files can have any extension or none at all
 - Linux is case sensitive

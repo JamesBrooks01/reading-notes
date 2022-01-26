@@ -11,6 +11,7 @@ Then, they realized the vulnerability of a single server being that if it failed
 
 Git is a DVCS that stores everything in snapshots, otherwise called a commit. Every time a changed version of a project is saved, Git stores a snapshot of the file and allows it to be referenced later. Git relies mostly on local operations, which allows projects to be worked on offline if necessary and every change applied to a file or directory is tracked by Git and due to how it's set up it minimizes the risk of damaged or lost files through transit.
 Files in Git exist in three main states,
+
 - Commited = Data is stored in local database
 - Modified = Data has been chnaged but not commited
 - Staged = Files set to bee commited in the next snapshot
