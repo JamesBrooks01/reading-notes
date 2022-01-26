@@ -1,7 +1,3 @@
-layout: page
-title: "Learning Markdown"
-permalink: "/reading-notes/learning-markdown.md"
-
 # Basic Syntax
 
 ## Heading
