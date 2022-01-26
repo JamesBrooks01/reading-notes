@@ -9,11 +9,11 @@ And I couldn't get a picture of my other cat(Weasley), So just imagine the same 
 
 ## Table of Contents
 
-- [Growth Mindset](https://github.com/JamesBrooks01/reading-notes/blob/main/Growth%20Mindset.md)
-- [Learning Markdown Summary](https://github.com/JamesBrooks01/reading-notes/blob/main/Learning%20Markdown%20Summary.md)
-- [Learning Markdown](https://github.com/JamesBrooks01/reading-notes/blob/main/Learning%20Markdown.md) 
-- [Terminal Cheat Sheet](https://github.com/JamesBrooks01/reading-notes/blob/main/Learning%20Markdown.md) 
-- [The Coder's Computer](https://github.com/JamesBrooks01/reading-notes/blob/main/The%20Coder's%20Computer.md)  
+- [Growth Mindset](https://jamesbrooks01.github.io/reading-notes/GrowthMindset)
+- [Learning Markdown Summary](https://jamesbrooks01.github.io/reading-notes/LearningMarkdownSummary)
+- [Learning Markdown](https://jamesbrooks01.github.io/reading-notes/LearningMarkdown) 
+- [Terminal Cheat Sheet](https://jamesbrooks01.github.io/reading-notes/TerminalCheatSheet) 
+- [The Coder's Computer](https://jamesbrooks01.github.io/reading-notes/TheCoder'sComputer)  
 
 [LinkedIn](https://www.linkedin.com/in/james-brooks-8270b3170/)<br>
 [GitHub](https://github.com/JamesBrooks01)<br>
