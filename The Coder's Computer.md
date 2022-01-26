@@ -25,4 +25,6 @@ For web developers and software engineers however, it can be used to create enti
 
     Extensions cover everything else that a developer would need. If a developer needs a new feature, then it's likely that an extension exists to fit that need.
 
-## 
+## IDEs vs Text Editors
+
+    Now, using a Text Editor is all well and good. but it can only go so far. You can code all you like but without additional software you can't use the code. This is where an IDE comes in. An IDE is actually a combination of software all together in one package. It is a Text Editor, a File Manager, a Compiler, and a Debugger all in one. An easy way to think about is like Outlook. If you've ever used it you would know that it contains an email client, calender, task manager and to-do list in one place.
