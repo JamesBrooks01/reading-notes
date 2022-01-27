@@ -11,9 +11,13 @@ And I couldn't get a picture of my other cat(Weasley), So just imagine the same 
 
 - [Growth Mindset](https://jamesbrooks01.github.io/reading-notes/GrowthMindset)
 - [Learning Markdown Summary](https://jamesbrooks01.github.io/reading-notes/LearningMarkdownSummary)
-- [Learning Markdown](https://jamesbrooks01.github.io/reading-notes/LearningMarkdown) 
-- [Terminal Cheat Sheet](https://jamesbrooks01.github.io/reading-notes/TerminalCheatSheet) 
-- [The Coder's Computer](https://jamesbrooks01.github.io/reading-notes/TheCoder'sComputer)  
+- [Learning Markdown](https://jamesbrooks01.github.io/reading-notes/LearningMarkdown)
+- [Terminal Cheat Sheet](https://jamesbrooks01.github.io/reading-notes/TerminalCheatSheet)
+- [The Coder's Computer](https://jamesbrooks01.github.io/reading-notes/TheCoder'sComputer)
+- [Revisions And The Cloud](https://jamesbrooks01.github.io/reading-notes/RevisionsAndTheCloud)
+- [Structure Webpages With HTML](https://jamesbrooks01.github.io/reading-notes/DesignWebpagesWithHTML)
+- [Design Webpages With CSS](https://jamesbrooks01.github.io/reading-notes/DesignWebpagesWithCSS)
+- [Dynamic Webpages With JavaScript](https://jamesbrooks01.github.io/reading-notes/DynamicWebpagesWithJavaScript)
 
 [LinkedIn](https://www.linkedin.com/in/james-brooks-8270b3170/)<br>
 [GitHub](https://github.com/JamesBrooks01)<br>
