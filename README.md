@@ -15,7 +15,7 @@ And I couldn't get a picture of my other cat(Weasley), So just imagine the same 
 - [Terminal Cheat Sheet](https://jamesbrooks01.github.io/reading-notes/TerminalCheatSheet)
 - [The Coder's Computer](https://jamesbrooks01.github.io/reading-notes/TheCoder'sComputer)
 - [Revisions And The Cloud](https://jamesbrooks01.github.io/reading-notes/RevisionsAndTheCloud)
-- [Structure Webpages With HTML](https://jamesbrooks01.github.io/reading-notes/DesignWebpagesWithHTML)
+- [Design Webpages With HTML](https://jamesbrooks01.github.io/reading-notes/DesignWebpagesWithHTML)
 - [Design Webpages With CSS](https://jamesbrooks01.github.io/reading-notes/DesignWebpagesWithCSS)
 - [Dynamic Webpages With JavaScript](https://jamesbrooks01.github.io/reading-notes/DynamicWebpagesWithJavaScript)
 
