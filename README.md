@@ -9,6 +9,8 @@ And I couldn't get a picture of my other cat(Weasley), So just imagine the same 
 
 ## Table of Contents
 
+### Code 102
+
 - [Growth Mindset](https://jamesbrooks01.github.io/reading-notes/GrowthMindset)
 - [Learning Markdown Summary](https://jamesbrooks01.github.io/reading-notes/LearningMarkdownSummary)
 - [Learning Markdown](https://jamesbrooks01.github.io/reading-notes/LearningMarkdown)
@@ -17,7 +19,10 @@ And I couldn't get a picture of my other cat(Weasley), So just imagine the same 
 - [Revisions And The Cloud](https://jamesbrooks01.github.io/reading-notes/RevisionsAndTheCloud)
 - [Design Webpages With HTML](https://jamesbrooks01.github.io/reading-notes/DesignWebpagesWithHTML)
 - [Design Webpages With CSS](https://jamesbrooks01.github.io/reading-notes/DesignWebpagesWithCSS)
-- [Dynamic Webpages With JavaScript](https://jamesbrooks01.github.io/reading-notes/DynamicWebpagesWithJavaScript)
+- [Dynamic Webpages With JavaScript](https://jamesbrooks01.github.io/reading-notes/DynamicWebpagesWithJavaScript).
+
+### Code 201
+
 
 [LinkedIn](https://www.linkedin.com/in/james-brooks-8270b3170/)<br>
 [GitHub](https://github.com/JamesBrooks01)<br>
