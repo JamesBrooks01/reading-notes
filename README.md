@@ -14,6 +14,7 @@ And I couldn't get a picture of my other cat(Weasley), So just imagine the same 
 ---
 
 - [Class 01: Introductory HTML and JavaScript](https://jamesbrooks01.github.io/reading-notes/Code201/class-01)
+- [Class 02: HTML Text, CSS Introduction, and Basic JavaScript Instructions](https://jamesbrooks01.github.io/reading-notes/Code201/class-02)
 
 ### Code 102
 
