@@ -13,7 +13,7 @@ And I couldn't get a picture of my other cat(Weasley), So just imagine the same 
 
 ---
 
--
+- [Class 01: Introductory HTML and JavaScript](https://jamesbrooks01.github.io/reading-notes/Code201/class-01)
 
 ### Code 102
 
