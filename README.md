@@ -18,6 +18,7 @@ And I couldn't get a picture of my other cat(Weasley), So just imagine the same 
 - [Class 03: HTML Lists, CSS Boxes, JS Control Flow](https://jamesbrooks01.github.io/reading-notes/Code201/class-03)
 - [Class 04: HTML Links, CSS Layout, JS Functions](https://jamesbrooks01.github.io/reading-notes/Code201/class-04)
 - [Class 05: HTML Images; CSS Color & Text](https://jamesbrooks01.github.io/reading-notes/Code201/class-05)
+- [Class 06: JS Object Literals; The DOM](https://jamesbrooks01.github.io/reading-notes/Code201/class-06)
 
 ### Code 102
 
