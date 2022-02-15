@@ -33,6 +33,7 @@ And I couldn't get a picture of my other cat(Weasley), So just imagine the same 
 - [Revisions And The Cloud](https://jamesbrooks01.github.io/reading-notes/Code102/RevisionsAndTheCloud)
 - [Design Webpages With HTML](https://jamesbrooks01.github.io/reading-notes/Code102/DesignWebpagesWithHTML)
 - [Design Webpages With CSS](https://jamesbrooks01.github.io/reading-notes/Code102/DesignWebpagesWithCSS)
-- [Dynamic Webpages With JavaScript](https://jamesbrooks01.github.io/reading-notes/Code102/DynamicWebpagesWithJavaScript)
+- [Dynamic Webpages With JavaScript](https://jamesbrooks01.github.io/reading-notes/Code102/DynamicWebpagesWithJavaScript)<br>
+
 [LinkedIn](https://www.linkedin.com/in/james-brooks-8270b3170/)<br>
 [GitHub](https://github.com/JamesBrooks01)<br>
