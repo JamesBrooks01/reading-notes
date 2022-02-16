@@ -20,6 +20,7 @@ And I couldn't get a picture of my other cat(Weasley), So just imagine the same 
 - [Class 05: HTML Images; CSS Color & Text](https://jamesbrooks01.github.io/reading-notes/Code201/class-05)
 - [Class 06: JS Object Literals; The DOM](https://jamesbrooks01.github.io/reading-notes/Code201/class-06)
 - [Class 07: HTML Tables; JS Constructor Functions](https://jamesbrooks01.github.io/reading-notes/Code201/class-07)
+- [Class 08: More CSS Layout](https://jamesbrooks01.github.io/reading-notes/Code201/class-08)
 
 ### Code 102
 
