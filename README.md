@@ -21,6 +21,7 @@ And I couldn't get a picture of my other cat(Weasley), So just imagine the same 
 - [Class 06: JS Object Literals; The DOM](https://jamesbrooks01.github.io/reading-notes/Code201/class-06)
 - [Class 07: HTML Tables; JS Constructor Functions](https://jamesbrooks01.github.io/reading-notes/Code201/class-07)
 - [Class 08: More CSS Layout](https://jamesbrooks01.github.io/reading-notes/Code201/class-08)
+- [Class 09: Forms and Events](https://jamesbrooks01.github.io/reading-notes/Code201/class-09)
 
 ### Code 102
 
