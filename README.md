@@ -23,6 +23,7 @@ And I couldn't get a picture of my other cat(Weasley), So just imagine the same 
 - [Class 08: More CSS Layout](https://jamesbrooks01.github.io/reading-notes/Code201/class-08)
 - [Class 09: Forms and Events](https://jamesbrooks01.github.io/reading-notes/Code201/class-09)
 - [Class 10: JS Debugging](https://jamesbrooks01.github.io/reading-notes/Code201/class-10)
+- [Class 11: Assorted Topics](https://jamesbrooks01.github.io/reading-notes/Code201/class-11)
 
 ### Code 102
 
