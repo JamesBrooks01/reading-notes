@@ -25,6 +25,7 @@ And I couldn't get a picture of my other cat(Weasley), So just imagine the same 
 - [Class 10: JS Debugging](https://jamesbrooks01.github.io/reading-notes/Code201/class-10)
 - [Class 11: Assorted Topics](https://jamesbrooks01.github.io/reading-notes/Code201/class-11)
 - [Class 12: Docs for the HTML `<canvas>` Element & Chart.js](https://jamesbrooks01.github.io/reading-notes/Code201/class-12)
+- [Class 13: Local Storage](https://jamesbrooks01.github.io/reading-notes/Code201/class-13)
 
 ### Code 102
 
