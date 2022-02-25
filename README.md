@@ -26,6 +26,8 @@ And I couldn't get a picture of my other cat(Weasley), So just imagine the same 
 - [Class 11: Assorted Topics](https://jamesbrooks01.github.io/reading-notes/Code201/class-11)
 - [Class 12: Docs for the HTML `<canvas>` Element & Chart.js](https://jamesbrooks01.github.io/reading-notes/Code201/class-12)
 - [Class 13: Local Storage](https://jamesbrooks01.github.io/reading-notes/Code201/class-13)
+- [Class 14a: CSS Transforms, Transitions, and Animations](https://jamesbrooks01.github.io/reading-notes/Code201/class-14a)
+- [Class 13b: What Google Learned About Teams](https://jamesbrooks01.github.io/reading-notes/Code201/class-14b)
 
 ### Code 102
 
