@@ -9,7 +9,11 @@ And I couldn't get a picture of my other cat(Weasley), So just imagine the same 
 
 ## Table of Contents
 
-### Code 201
+### Code 301 - Intermediate Software Development
+
+---
+
+### Code 201 - Foundations of Software Development
 
 ---
 
@@ -29,7 +33,7 @@ And I couldn't get a picture of my other cat(Weasley), So just imagine the same 
 - [Class 14a: CSS Transforms, Transitions, and Animations](https://jamesbrooks01.github.io/reading-notes/Code201/class-14a)
 - [Class 14b: What Google Learned About Teams](https://jamesbrooks01.github.io/reading-notes/Code201/class-14b)
 
-### Code 102
+### Code 102 - Intro to Software Development
 
 ---
 
