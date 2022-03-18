@@ -17,6 +17,7 @@ And I couldn't get a picture of my other cat(Weasley), So just imagine the same 
 - [Class 02: State and Props](https://jamesbrooks01.github.io/reading-notes/Code301/class-02)
 - [Class 03: Passing Functions as Props](https://jamesbrooks01.github.io/reading-notes/Code301/class-03)
 - [Class 04: React and Forms](https://jamesbrooks01.github.io/reading-notes/Code301/class-04)
+- [Class 05: Putting it all together](https://jamesbrooks01.github.io/reading-notes/Code301/class-05)
 
 ### Code 201 - Foundations of Software Development
 
