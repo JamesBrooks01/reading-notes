@@ -19,6 +19,7 @@ And I couldn't get a picture of my other cat(Weasley), So just imagine the same 
 - [Class 04: React and Forms](https://jamesbrooks01.github.io/reading-notes/Code301/class-04)
 - [Class 05: Putting it all together](https://jamesbrooks01.github.io/reading-notes/Code301/class-05)
 - [Class 06: NODE.JS](https://jamesbrooks01.github.io/reading-notes/Code301/class-06)
+- [Class 07](https://jamesbrooks01.github.io/reading-notes/Code301/class-07)
 
 ### Code 201 - Foundations of Software Development
 
