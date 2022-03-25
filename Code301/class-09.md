@@ -5,6 +5,7 @@
 ---
 
 ### Functional Programming Concepts
+
 ---
 
 - What is functional programming?
