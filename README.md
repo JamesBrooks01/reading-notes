@@ -21,6 +21,8 @@ And I couldn't get a picture of my other cat(Weasley), So just imagine the same 
 - [Class 06: NODE.JS](https://jamesbrooks01.github.io/reading-notes/Code301/class-06)
 - [Class 07](https://jamesbrooks01.github.io/reading-notes/Code301/class-07)
 - [Class 08: APIs](https://jamesbrooks01.github.io/reading-notes/Code301/class-08)
+- [Class 09: Functional Programming](https://jamesbrooks01.github.io/reading-notes/Code301/class-09)
+- [Class 10: In Memory Storage](https://jamesbrooks01.github.io/reading-notes/Code301/class-10)
 
 ### Code 201 - Foundations of Software Development
 
