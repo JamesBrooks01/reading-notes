@@ -25,6 +25,7 @@ And I couldn't get a picture of my other cat(Weasley), So just imagine the same 
 - [Class 10: In Memory Storage](https://jamesbrooks01.github.io/reading-notes/Code301/class-10)
 - [Class 11: Mongo and Mongoose](https://jamesbrooks01.github.io/reading-notes/Code301/class-11)
 - [Class 12: CRUD](https://jamesbrooks01.github.io/reading-notes/Code301/class-12)
+- [Class 13: More CRUD](https://jamesbrooks01.github.io/reading-notes/Code301/class-13)
 
 ### Code 201 - Foundations of Software Development
 
