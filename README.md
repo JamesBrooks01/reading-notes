@@ -27,6 +27,7 @@ And I couldn't get a picture of my other cat(Weasley), So just imagine the same 
 - [Class 12: CRUD](https://jamesbrooks01.github.io/reading-notes/Code301/class-12)
 - [Class 13: More CRUD](https://jamesbrooks01.github.io/reading-notes/Code301/class-13)
 - [Class 14: Diversity & Inclusion in the Tech Industry](https://jamesbrooks01.github.io/reading-notes/Code301/class-14)
+- [Class 14: Authentication](https://jamesbrooks01.github.io/reading-notes/Code301/class-15)
 
 ### Code 201 - Foundations of Software Development
 
