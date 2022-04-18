@@ -11,7 +11,9 @@ And I couldn't get a picture of my other cat(Weasley), So just imagine the same 
 
 ### Code 401 - Advanced Software Development - Python
 
--
+- [Prep Work: Growth Mindset](https://jamesbrooks01.github.io/reading-notes/Code401/growthMindset)
+- [Prep Work: Introduction To SQL](https://jamesbrooks01.github.io/reading-notes/Code401/introductionToSQL)
+- [Prep Work: Practice In The Terminal](https://jamesbrooks01.github.io/reading-notes/Code401/practiceInTheTerminal)
 
 ### Code 301 - Intermediate Software Development
 
