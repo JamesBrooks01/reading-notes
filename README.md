@@ -18,6 +18,7 @@ And I couldn't get a picture of my other cat(Weasley), So just imagine the same 
 - [Class 02: Testing and Modules](https://jamesbrooks01.github.io/reading-notes/Code401/class-02)
 - [Class 03: FileIO & Exceptions](https://jamesbrooks01.github.io/reading-notes/Code401/class-03)
 - [Class 04: Classes/Objects, Recursive Thinking, and Pytest Fixtures and Coverage](https://jamesbrooks01.github.io/reading-notes/Code401/class-04)
+- [Class 05: Linked Lists](https://jamesbrooks01.github.io/reading-notes/Code401/class-05)
 
 ### Code 301 - Intermediate Software Development
 
