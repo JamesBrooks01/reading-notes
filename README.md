@@ -20,6 +20,7 @@ And I couldn't get a picture of my other cat(Weasley), So just imagine the same 
 - [Class 04: Classes/Objects, Recursive Thinking, and Pytest Fixtures and Coverage](https://jamesbrooks01.github.io/reading-notes/Code401/class-04)
 - [Class 05: Linked Lists](https://jamesbrooks01.github.io/reading-notes/Code401/class-05)
 - [Class 06: Ten Thousand Game 1](https://jamesbrooks01.github.io/reading-notes/Code401/class-06)
+- [Class 07: Ten Thousand Game 2](https://jamesbrooks01.github.io/reading-notes/Code401/class-07)
 
 ### Code 301 - Intermediate Software Development
 
