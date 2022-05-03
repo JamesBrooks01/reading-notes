@@ -24,6 +24,8 @@ And I couldn't get a picture of my other cat(Weasley), So just imagine the same 
 - [Class 08: Ten Thousand Game 3](https://jamesbrooks01.github.io/reading-notes/Code401/class-08)
 - [Class 09: Ten Thousand Game 4](https://jamesbrooks01.github.io/reading-notes/Code401/class-09)
 - [Class 10: Implementation: Stacks and Queues](https://jamesbrooks01.github.io/reading-notes/Code401/class-10)
+- [Class 11: Data Analysis](https://jamesbrooks01.github.io/reading-notes/Code401/class-11)
+- [Class 12: Readings: Topic](https://jamesbrooks01.github.io/reading-notes/Code401/class-12)
 
 ### Code 301 - Intermediate Software Development
 
