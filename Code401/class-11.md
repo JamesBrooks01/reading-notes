@@ -71,4 +71,3 @@
   - Or `numpy.hstack` to stack them horizontally.
     - The arrays need the same number of rows for this to work however.
   - Or, for more general use, `numpy.concatenate` will combine arrays along the axis you specify
-
