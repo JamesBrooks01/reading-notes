@@ -27,6 +27,7 @@ And I couldn't get a picture of my other cat(Weasley), So just imagine the same 
 - [Class 11: Data Analysis](https://jamesbrooks01.github.io/reading-notes/Code401/class-11)
 - [Class 12: Readings: Topic](https://jamesbrooks01.github.io/reading-notes/Code401/class-12)
 - [Class 13: Linear Regressions](https://jamesbrooks01.github.io/reading-notes/Code401/class-13)
+- [Class 14: Data Visualization](https://jamesbrooks01.github.io/reading-notes/Code401/class-14)
 
 ### Code 301 - Intermediate Software Development
 
