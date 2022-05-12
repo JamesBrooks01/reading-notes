@@ -32,6 +32,7 @@ And I couldn't get a picture of my other cat(Weasley), So just imagine the same 
 - [Class 16: Serverless Functions](https://jamesbrooks01.github.io/reading-notes/Code401/class-16)
 - [Class 17: Web Scraping](https://jamesbrooks01.github.io/reading-notes/Code401/class-17)
 - [Class 18: Cryptography](https://jamesbrooks01.github.io/reading-notes/Code401/class-18)
+- [Class 19: Automation](https://jamesbrooks01.github.io/reading-notes/Code401/class-19)
 
 ### Code 301 - Intermediate Software Development
 
