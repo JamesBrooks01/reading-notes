@@ -33,6 +33,8 @@ And I couldn't get a picture of my other cat(Weasley), So just imagine the same 
 - [Class 17: Web Scraping](https://jamesbrooks01.github.io/reading-notes/Code401/class-17)
 - [Class 18: Cryptography](https://jamesbrooks01.github.io/reading-notes/Code401/class-18)
 - [Class 19: Automation](https://jamesbrooks01.github.io/reading-notes/Code401/class-19)
+- [Class 26: Intro to Django](https://jamesbrooks01.github.io/reading-notes/Code401/class-26)
+- [Class 27: Django Models](https://jamesbrooks01.github.io/reading-notes/Code401/class-27)
 
 ### Code 301 - Intermediate Software Development
 
