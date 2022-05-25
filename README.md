@@ -35,6 +35,7 @@ And I couldn't get a picture of my other cat(Weasley), So just imagine the same 
 - [Class 19: Automation](https://jamesbrooks01.github.io/reading-notes/Code401/class-19)
 - [Class 26: Intro to Django](https://jamesbrooks01.github.io/reading-notes/Code401/class-26)
 - [Class 27: Django Models](https://jamesbrooks01.github.io/reading-notes/Code401/class-27)
+- [Class 27: Django Forms](https://jamesbrooks01.github.io/reading-notes/Code401/class-28)
 
 ### Code 301 - Intermediate Software Development
 
