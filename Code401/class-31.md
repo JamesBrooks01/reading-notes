@@ -32,4 +32,3 @@
 - Under the Django REST framework, the output when going to a url is serialized json data
 - The REST framework relies on a model, a url and a serializer file.
 - A serializer translates complex data like a queryset or model instance into a format like JSON.
-- 
