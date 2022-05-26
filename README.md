@@ -36,6 +36,8 @@ And I couldn't get a picture of my other cat(Weasley), So just imagine the same 
 - [Class 26: Intro to Django](https://jamesbrooks01.github.io/reading-notes/Code401/class-26)
 - [Class 27: Django Models](https://jamesbrooks01.github.io/reading-notes/Code401/class-27)
 - [Class 28: Django Forms](https://jamesbrooks01.github.io/reading-notes/Code401/class-28)
+- [Class 31: Django REST Framework & Docker](https://jamesbrooks01.github.io/reading-notes/Code401/class-31)
+
 
 ### Code 301 - Intermediate Software Development
 
