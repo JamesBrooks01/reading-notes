@@ -40,6 +40,7 @@ And I couldn't get a picture of my other cat(Weasley), So just imagine the same 
 - [Class 32: Permissions & PostgreSQL](https://jamesbrooks01.github.io/reading-notes/Code401/class-32)
 - [Class 33: Authentication & Production Server](https://jamesbrooks01.github.io/reading-notes/Code401/class-33)
 - [Class 34: API Deployment](https://jamesbrooks01.github.io/reading-notes/Code401/class-34)
+- [Class 35: Implementation: Graphs](https://jamesbrooks01.github.io/reading-notes/Code401/class-35)
 
 
 ### Code 301 - Intermediate Software Development
