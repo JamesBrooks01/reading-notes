@@ -45,6 +45,8 @@ And I couldn't get a picture of my other cat(Weasley), So just imagine the same 
 - [Class 36: DSA Review](https://jamesbrooks01.github.io/reading-notes/Code401/class-36)
 - [Class 38: React 2](https://jamesbrooks01.github.io/reading-notes/Code401/class-38)
 - [Class 39: React 3](https://jamesbrooks01.github.io/reading-notes/Code401/class-39)
+- [Class 41: React 4](https://jamesbrooks01.github.io/reading-notes/Code401/class-41)
+- [Class 42: Pythonisms](https://jamesbrooks01.github.io/reading-notes/Code401/class-42)
 
 
 ### Code 301 - Intermediate Software Development
