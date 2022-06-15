@@ -47,6 +47,7 @@ And I couldn't get a picture of my other cat(Weasley), So just imagine the same 
 - [Class 39: React 3](https://jamesbrooks01.github.io/reading-notes/Code401/class-39)
 - [Class 41: React 4](https://jamesbrooks01.github.io/reading-notes/Code401/class-41)
 - [Class 42: Pythonisms](https://jamesbrooks01.github.io/reading-notes/Code401/class-42)
+- [Class 43: Open Source Software Contribution](https://jamesbrooks01.github.io/reading-notes/Code401/class-43)
 
 
 ### Code 301 - Intermediate Software Development
